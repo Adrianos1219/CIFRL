@@ -1,6 +1,6 @@
 ## Introduction
 
-This is the source code of "Cross-modal Uncertainty Modeling with Diffusion-based Refinement for Text-based Person Retrieval"
+This is the source code of "Causal-Inspired Fourier Representation Learning for Wearable IMUs and Egocentric Action Recognition"
 
 ## Causal-Inspired Fourier Representation Learning for Wearable IMUs and Egocentric Action Recognition
 
