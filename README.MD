@@ -22,6 +22,10 @@ The CIFRL framework comprises two key components:
 
 Illustrative examples of: (a) instance-level representation and causal-level representation. (b) complex inertial data alignment challenge.
 
+## Experiment Results
+
+![Result](images/Result.png)
+
 ## Recognition Examples
 
 ![Result](images/qa.png)
