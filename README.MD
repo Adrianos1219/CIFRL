@@ -30,6 +30,10 @@ Illustrative examples of: (a) instance-level representation and causal-level rep
 
 ![Result](images/qa.png)
 
+![Result](images/qa1.png)
+
+![Result](images/qa2.png)
+
 ## Usage
 
 ```shell
